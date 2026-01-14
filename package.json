@@ -26,7 +26,7 @@
     "express-session": "^1.18.0",
     "helmet": "^7.1.0",
     "nocache": "^4.0.0",
-    "npm": "^10.8.3",
+    "npm": "^11.7.0",
     "owasp-password-strength-test": "",
     "prop-types": "^15.8.1",
     "react": "^18.3.1",

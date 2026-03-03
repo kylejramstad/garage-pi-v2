@@ -1,5 +1,7 @@
 # Garage-Pi-v2
 
+## This repository is archived because there are many commercial products that solve this problem easier and cheaper
+
 Control your garage door using a secure web application running on your Raspberry Pi.
 
 Originally based on this [howchoo](https://howchoo.com/g/yznmzmuxywu/how-to-control-your-garage-door-from-your-phone-using-a-raspberry-pi) article by [Tyler Jones](https://github.com/josephtyler).
